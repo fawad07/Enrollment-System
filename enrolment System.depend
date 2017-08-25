@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1495069686 source:f:\developer\c-programming\c-files\enrolment system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"functions.h"
+	"coursesFunctions.h"
+	"student.h"
+	"extras.h"
+
+1420101649 f:\developer\c-programming\c-files\enrolment system\functions.h
+
+1420110383 f:\developer\c-programming\c-files\enrolment system\coursesfunctions.h
+
+1420110383 f:\developer\c-programming\c-files\enrolment system\student.h
+
+1420135806 f:\developer\c-programming\c-files\enrolment system\extras.h
+

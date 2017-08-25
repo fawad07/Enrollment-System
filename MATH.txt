@@ -1,0 +1,134 @@
+Course		Title		Course Description 
+
+SC/MATH 	1013 3.00	Applied Calculus I
+SC/MATH 	1014 3.00	Applied Calculus II
+SC/MATH 	1019 3.00	Discrete Mathematics for Computer Science
+SC/MATH 	1021 3.00	Linear Algebra I
+SC/MATH 	1025 3.00	Applied Linear Algebra
+SC/MATH 	1028 3.00	Discrete Mathematics for Engineers
+SC/MATH 	1090 3.00	Introduction to Logic for Computer Science
+SC/MATH 	1131 3.00	Introduction to Statistics I
+SC/MATH 	1190 3.00	Introduction to Sets and Logic
+SC/MATH 	1200 3.00	Problems, Conjectures and Proofs
+SC/MATH 	1300 3.00	Differential Calculus with Applications
+SC/MATH 	1310 3.00	Integral Calculus with Applications
+SC/MATH 	1505 6.00	Mathematics for the Life and Social Sciences
+SC/MATH 	1510 6.00	Fundamentals of Mathematics
+SC/MATH 	1520 3.00	Introduction to Calculus, with Vectors
+SC/MATH 	1532 3.00	Statistics for Business and Society
+SC/MATH 	1550 6.00	Mathematics with Management Applications
+SC/MATH 	1581 3.00	Business Mathematics I
+GL/MATH 	1610 3.00	Introduction to Statistical Methods I
+GL/MATH 	1620 3.00	Introduction to Statistical Methods II
+GL/MATH 	1650 3.00	Modes of Mathematical Reasoning
+GL/MATH 	1670 6.00	Fundamentals of Mathematics
+GL/MATH 	1930 3.00	Calculus I
+GL/MATH 	1930 3.00	Calcul différentiel et intégral I
+GL/MATH 	1940 3.00	Calculus II
+GL/MATH 	1940 3.00	Calcul différentiel et intégral II
+SC/MATH 	2001 3.00	Real Analysis l
+SC/MATH 	2015 3.00	Applied Multivariate and Vector Calculus
+SC/MATH 	2022 3.00	Linear Algebra II
+SC/MATH 	2030 3.00	Elementary Probability
+SC/MATH 	2041 3.00	Symbolic Computation Laboratory I
+SC/MATH 	2131 3.00	Introduction to Statistics II
+SC/MATH 	2200 3.00	Extended Problems, Conjectures, and Proofs
+SC/MATH 	2270 3.00	Differential Equations
+SC/MATH 	2271 3.00	Differential Equations for Scientists and Engineers
+SC/MATH 	2280 3.00	The Mathematical Theory of Interest
+SC/MATH 	2281 3.00	Financial Economics
+SC/MATH 	2310 3.00	Calculus of Several Variables with Applications
+SC/MATH 	2320 3.00	Discrete Mathematical Structures
+SC/MATH 	2560 3.00	Elementary Statistics I
+SC/MATH 	2565 3.00	Introduction to Applied Statistics
+SC/MATH 	2570 3.00	Elementary Statistics II
+SC/MATH 	2581 3.00	Business Mathematics II
+GL/MATH 	2650 3.00	Linear Algebra I
+GL/MATH 	2660 3.00	Linear Algebra II
+GL/MATH 	2670 6.00	Second Year Calculus
+SC/MATH 	3001 3.00	Real Analysis II
+SC/MATH 	3010 3.00	Vector Integral Calculus
+SC/MATH 	3021 3.00	Algebra I
+SC/MATH 	3022 3.00	Algebra II
+ED/MATH 	3041 3.00	Teaching Mathematics in the Intermediate Division
+ED/MATH 	3051 6.00	Teaching Mathematics in the Intermediate Senior Division
+SC/MATH 	3052 6.00	Exploring Geometries
+SC/MATH 	3090 3.00	Computational Mathematics
+SC/MATH 	3131 3.00	Mathematical Statistics I
+SC/MATH 	3132 3.00	Mathematical Statistics II
+SC/MATH 	3171 3.00	Linear Optimization
+SC/MATH 	3172 3.00	Combinatorial Optimization
+SC/MATH 	3241 3.00	Numerical Methods I
+SC/MATH 	3242 3.00	Numerical Methods II
+SC/MATH 	3243 1.00	Communication in Applied Mathematics
+SC/MATH 	3260 3.00	Introduction to Graph Theory
+SC/MATH 	3271 3.00	Partial Differential Equations
+SC/MATH 	3280 3.00	Mathematics of Life Contingencies I
+SC/MATH 	3281 3.00	Mathematics of Life Contingencies II
+SC/MATH 	3330 3.00	Regression Analysis
+SC/MATH 	3410 3.00	Complex Variables
+SC/MATH 	3430 3.00	Sample Survey Design
+GL/MATH 	3510 3.00	Modern Algebra I
+GL/MATH 	3645 3.00	Optimization with Applications to Economics
+SC/MATH 	4000 3.00	Individual Project
+SC/MATH 	4000 6.00	Individual Project
+SC/MATH 	4001 6.00	Real Analysis III
+SC/MATH 	4021 3.00	Algebra III
+SC/MATH 	4090 3.00	Mathematical Modelling
+GL/MATH 	4100 6.00	Differential Equations
+SC/MATH 	4100A 3.00	Topics in Mathematics Education: Theory and Practice
+SC/MATH 	4120 3.00	Gas and Fluid Dynamics
+SC/MATH 	4130B 3.00	Topics in Probability and Statistics: Introduction to the Theory and Methods of Time Series Analysis
+SC/MATH 	4141 3.00	Advanced Numerical Methods
+SC/MATH 	4143 3.00	Scientific Computation for Finance Applications
+SC/MATH 	4160 3.00	Combinatorial Mathematics
+SC/MATH 	4161 3.00	Mathematics of Cryptography
+SC/MATH 	4170 6.00	Operations Research II
+GL/MATH 	4230 6.00	Analyse Complexe
+SC/MATH 	4280 3.00	Risk Theory - Loss Models and Risk Measures
+SC/MATH 	4281 3.00	Risk Theory - Ruin and Credibility
+SC/MATH 	4300 3.00	Directed Readings
+SC/MATH 	4300 6.00	Directed Readings
+SC/MATH 	4400 6.00	The History of Mathematics
+SC/MATH 	4430 3.00	Stochastic Processes
+SC/MATH 	4585 4.00	Quantitative Methods in Biology
+SC/MATH 	4630 3.00	Applied Multivariate Statistical Analysis
+SC/MATH 	4730 3.00	Experimental Design
+SC/MATH 	4731 3.00	Sampling: Design and Analysis
+SC/MATH 	4931 3.00	Simulation and the Monte Carlo Methods
+GS/MATH 	5001 0.00	Survey Paper
+GS/MATH 	5002 3.00	Directed Reading
+GS/MATH 	5370 3.00	Financial Mathematics for Teachers
+GS/MATH 	5400 6.00	History Of Mathematics
+GS/MATH 	5510 3.00	Topics in Mathematics for Teachers
+GS/MATH 	5900 3.00	Thinking about Teaching Mathematics
+GS/MATH 	6001 0.00	Survey Paper
+GS/MATH 	6002 3.00	Directed Reading
+GS/MATH 	6004 0.00	Mathematics Seminar
+GS/MATH 	6120 6.00	Modern Algebra
+GS/MATH 	6280 3.00	Measure Theory
+GS/MATH 	6340 3.00	Ordinary Differential Equations
+GS/MATH 	6350 3.00	Partial Differential Equations
+GS/MATH 	6461 3.00	Functional Analysis I
+GS/MATH 	6462 3.00	Mathematics & Statistics 6462 3.0: Functional Analysis II.
+GS/MATH 	6540 3.00	General Topology 
+GS/MATH 	6550 3.00	Algebraic Topology I
+GS/MATH 	6602 3.00	Stochastic Processes	
+GS/MATH 	6605 3.00	Probability Theory
+GS/MATH 	6620 3.00	Mathematical Statistics
+GS/MATH 	6621 3.00	Advanced Mathematical Statistics
+GS/MATH 	6622 3.00	Generalized Linear Models
+GS/MATH 	6627 3.00	Practicum for Statistical Consulting
+GS/MATH 	6630 3.00	Applied Statistics I
+GS/MATH 	6631 3.00	Applied Statistics II
+GS/MATH 	6632 3.00	Multivariate Statistics
+GS/MATH 	6633 3.00	Theory and Methods of Time Series Analysis
+GS/MATH 	6635 3.00	Introduction to Bayesian Statistics
+GS/MATH 	6651 3.00	Advanced Numerical Methods
+GS/MATH 	6652 3.00	Numerical Solutions to Differential Equations
+GS/MATH 	6900 3.00	Operations Research I
+GS/MATH 	6901 3.00	Operations Research II
+GS/MATH 	6910 3.00	Stochastic Calculus In Finance
+GS/MATH 	6911 3.00	Numerical Methods in Finance
+GS/MATH 	6931 3.00	Mathematical Modeling
+GS/MATH 	6937 3.00	Practicum in Industrial & Applied Mathematics	

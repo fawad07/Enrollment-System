@@ -1,0 +1,80 @@
+Course	Title		Course Description
+
+EECS 	1001 1.00	Research Directions in Computing
+EECS 	1011 3.00	Computational Thinking through Mechatronics	
+EECS 	1019 3.00	Discrete Mathematics for Computer Science	
+EECS 	1020 3.00	Introduction to Computer Science I	
+EECS 	1021 3.00	Object Oriented Programming from Sensors to Actuators
+EECS 	1028 3.00	Discrete Mathematics for Engineers	
+EECS 	1030 3.00	Introduction to Computer Science II	
+EECS 	1520 3.00	Computer Use: Fundamentals	
+EECS 	1530 3.00	Computer Use: Programming	
+EECS 	1540 3.00	Computer Use for the Natural Sciences	
+EECS 	1541 3.00	Introduction to Computing for the Physical Sciences	
+EECS 	1550 3.00	Computer Use: Web and Database Systems	
+EECS 	1560 3.00	Introduction to Computing for Mathematics and Statistics	
+EECS 	1570 3.00	Introduction to Computing for Psychology	
+EECS 	1710 3.00	Programming for Digital Media	
+EECS 	1720 3.00	Building Interactive Systems	
+EECS 	2001 3.00	Introduction to the Theory of Computation	
+EECS 	2011 3.00	Fundamentals of Data Structures	
+EECS 	2021 4.00	Computer Organization	
+EECS 	2031 3.00	Software Tools
+EECS 	2041 4.00	Net-Centric Computing	
+EECS 	2200 3.00	Electrical Circuits	
+EECS 	2210 3.00	Electronic Circuits and Devices	
+EECS 	2311 3.00	Software Development Project	
+EECS 	2501 1.00	Fortran and Scientific Computing	
+EECS 	2602 4.00	Signals and Systems in Continuous Time	
+EECS 	3000 3.00	Professional Practice in Computing	
+EECS 	3101 3.00	Design and Analysis of Algorithms
+EECS 	3121 3.00	Numerical Methods I	
+EECS 	3122 3.00	Numerical Methods II	
+EECS	3201 4.00	Digital Logic Design	
+EECS 	3213 3.00	Communication Networks	
+EECS 	3214 3.00	Computer Network Protocols and Applications	
+EECS 	3215 4.00	Embedded Systems	
+EECS 	3221 3.00	Operating System Fundamentals	
+EECS 	3311 3.00	Software Design	
+EECS 	3342 3.00	System Specification and Refinement	
+EECS 	3401 3.00	Introduction to Artificial Intelligence and Logic Programming	
+EECS 	3421 3.00	Introduction to Database System	
+EECS 	3431 3.00	Introduction to 3D Computer Graphics	
+EECS 	3451 4.00	Signals and Systems	
+EECS 	3461 3.00	User Interfaces	
+EECS 	3481 3.00	Applied Cryptography	
+EECS 	3482 3.00	Introduction to Computer Security
+EECS 	3900 0.00	Computer Science Internship Work Term
+EECS 	3980 0.00	Computer Security Internship Work Term
+EECS 	4080 3.00	Computer Science Project
+EECS 	4081 6.00	Intelligent Systems Project
+EECS 	4082 6.00	Interactive Systems Project
+EECS 	4084 6.00	Communication Networks Project
+EECS 	4088 6.00	Computer Science Capstone Project	
+EECS 	4090 6.00	Softwareg Project
+EECS 	4101 3.00	Advanced Data Structures
+EECS 	4111 3.00	Automata and Computability
+EECS 	4115 3.00	Computational Complexity
+EECS 	4161 3.00	Mathematics of Cryptography
+EECS 	4201 3.00	Computer Architecture
+EECS	4210 3.00	Architecture and Hardware for Digital Signal Processing
+EECS 	4214 4.00	Digital Communications
+EECS 	4215 3.00	Mobile Communications
+EECS 	4221 3.00	Operating System Design
+EECS 	4312 3.00	Software Engineering Requirements
+EECS 	4313 3.00	Software Engineering Testing
+EECS 	4351 3.00	Real-Time Systems Theory
+EECS 	4411 3.00	Database Management Systems
+EECS 	4412 3.00	Data Mining
+EECS 	4413 3.00	Building E-Commerce Systems
+EECS 	4421 3.00	Introduction to Robotics
+EECS 	4422 3.00	Computer Vision
+EECS 	4431 3.00	Advanced Topics in 3D Computer Graphics
+EECS 	4441 3.00	Human-Computer Interaction
+EECS 	4443 3.00	Mobile User Interfaces
+EECS 	4471 3.00	Introduction to Virtual Reality
+EECS 	4480 3.00	Computer Security Project
+EECS 	4481 4.00	Computer Security Laboratory
+EECS 	4482 3.00	Computer Security Management: Assessment and Forensics
+EECS 	4491 3.00	Simulation and Animation for Computer Games
+EECS 	4700 6.00	Digital Media Project
